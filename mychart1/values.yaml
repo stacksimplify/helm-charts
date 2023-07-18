@@ -15,4 +15,4 @@ podAnnotations: {}
 service:
   type: NodePort
   port: 80
-  nodePort: 31234
+  nodePort: 31231
