@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   mychart1:
   - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2023-07-18T10:48:38.832531+05:30"
+    description: A Helm chart for Kubernetes
+    digest: bf51ccf90e5e54aeba2c20b81533807b66a8562976d65f49a41bf94f020742f1
+    name: mychart1
+    type: application
+    urls:
+    - https://stacksimplify.github.io/helm-charts/mychart1-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-18T10:36:20.250278+05:30"
+    created: "2023-07-18T10:48:38.831947+05:30"
     description: A Helm chart for Kubernetes
     digest: 66701794ae3db7534ff1bc55ab467c389a7a81ea5883f2095000f56120e02e44
     name: mychart1
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://stacksimplify.github.io/helm-charts/mychart1-0.1.0.tgz
     version: 0.1.0
-generated: "2023-07-18T10:36:20.248626+05:30"
+generated: "2023-07-18T10:48:38.831011+05:30"
