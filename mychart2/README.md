@@ -10,8 +10,8 @@
 - mychart2 Chart Versions -> App Version
 - 0.1.0 -> 1.0.0
 - 0.2.0 -> 2.0.0
-- 0.3.0 -> 0.3.0
-- 0.4.0 -> 0.4.0
+- 0.3.0 -> 3.0.0
+- 0.4.0 -> 4.0.0
 ```t
 # Search Helm Repo
 helm search repo mychart2
