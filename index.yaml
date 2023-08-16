@@ -3,7 +3,7 @@ entries:
   mychart1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-27T09:12:03.006544+05:30"
+    created: "2023-08-17T04:14:04.297064+05:30"
     description: A Helm chart for Kubernetes
     digest: e222211a83b56868a6950403a81dc646b2d588e7c4c43f5857f70f29152030ca
     name: mychart1
@@ -14,7 +14,7 @@ entries:
   mychart2:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2023-07-27T09:12:03.009325+05:30"
+    created: "2023-08-17T04:14:04.29833+05:30"
     description: A Helm chart for Kubernetes
     digest: 75896d0676a91491cfc39076bf7b1e5c522563f157c71b6d1061e15648a7c57c
     name: mychart2
@@ -24,7 +24,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2023-07-27T09:12:03.0086+05:30"
+    created: "2023-08-17T04:14:04.298035+05:30"
     description: A Helm chart for Kubernetes
     digest: b2cd6c3c1df06ae59a2e2d97c4b16a82e064f5c7e4cb569567b9d2c99f34c830
     name: mychart2
@@ -34,7 +34,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-07-27T09:12:03.00792+05:30"
+    created: "2023-08-17T04:14:04.297756+05:30"
     description: A Helm chart for Kubernetes
     digest: 04c8e3d0692741942dcaf2799937cd85bed9cbedb4b889a288d6900a9c29c69f
     name: mychart2
@@ -44,7 +44,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-27T09:12:03.007254+05:30"
+    created: "2023-08-17T04:14:04.297484+05:30"
     description: A Helm chart for Kubernetes
     digest: e144448d33655a8cf8d9ff316af29c3f5694173f8990e1bdb374c46905722209
     name: mychart2
@@ -55,7 +55,7 @@ entries:
   mychart3:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-27T09:12:03.010022+05:30"
+    created: "2023-08-17T04:14:04.298694+05:30"
     description: A Helm chart for Kubernetes
     digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
     name: mychart3
@@ -63,10 +63,21 @@ entries:
     urls:
     - https://stacksimplify.github.io/helm-charts/mychart3-1.0.0.tgz
     version: 1.0.0
+  mychart4:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-08-17T04:14:04.299382+05:30"
+    description: A Helm chart for Kubernetes
+    digest: d23750c76ea4453f7b13804f2011c0244715d651e249a123e8e50bd5547002ea
+    name: mychart4
+    type: application
+    urls:
+    - https://stacksimplify.github.io/helm-charts/mychart4-0.1.0.tgz
+    version: 0.1.0
   umsapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-27T09:12:03.013841+05:30"
+    created: "2023-08-17T04:14:04.303283+05:30"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -74,10 +85,10 @@ entries:
       version: 9.10.8
     description: User Management Web Application for learning Kubernetes, Docker,
       Helm and Terraform
-    digest: a86220d75d18bc1e0c2064b099871faf7d34b1b7a43b214017e287dc24ee434a
+    digest: f3f676c623c7d863000975b254ffc391b94400702ed80cb1397b6bab34082f18
     name: umsapp
     type: application
     urls:
     - https://stacksimplify.github.io/helm-charts/umsapp-1.0.0.tgz
     version: 1.0.0
-generated: "2023-07-27T09:12:03.003935+05:30"
+generated: "2023-08-17T04:14:04.295211+05:30"
