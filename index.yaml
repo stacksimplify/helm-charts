@@ -3,7 +3,7 @@ entries:
   mychart1:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-30T18:01:04.838537+05:30"
+    created: "2025-12-01T08:13:14.51715+05:30"
     description: A Helm chart for Kubernetes
     digest: e222211a83b56868a6950403a81dc646b2d588e7c4c43f5857f70f29152030ca
     name: mychart1
@@ -14,7 +14,7 @@ entries:
   mychart2:
   - apiVersion: v2
     appVersion: 4.0.0
-    created: "2025-11-30T18:01:04.841539+05:30"
+    created: "2025-12-01T08:13:14.519915+05:30"
     description: A Helm chart for Kubernetes
     digest: 75896d0676a91491cfc39076bf7b1e5c522563f157c71b6d1061e15648a7c57c
     name: mychart2
@@ -24,7 +24,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2025-11-30T18:01:04.840989+05:30"
+    created: "2025-12-01T08:13:14.519357+05:30"
     description: A Helm chart for Kubernetes
     digest: b2cd6c3c1df06ae59a2e2d97c4b16a82e064f5c7e4cb569567b9d2c99f34c830
     name: mychart2
@@ -34,7 +34,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2025-11-30T18:01:04.840234+05:30"
+    created: "2025-12-01T08:13:14.518818+05:30"
     description: A Helm chart for Kubernetes
     digest: 04c8e3d0692741942dcaf2799937cd85bed9cbedb4b889a288d6900a9c29c69f
     name: mychart2
@@ -44,7 +44,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-30T18:01:04.839344+05:30"
+    created: "2025-12-01T08:13:14.517999+05:30"
     description: A Helm chart for Kubernetes
     digest: e144448d33655a8cf8d9ff316af29c3f5694173f8990e1bdb374c46905722209
     name: mychart2
@@ -55,7 +55,7 @@ entries:
   mychart3:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-30T18:01:04.842044+05:30"
+    created: "2025-12-01T08:13:14.520416+05:30"
     description: A Helm chart for Kubernetes
     digest: ec954a7e28a24cf9384e96063131fed8b8f8a386b25422118347f8b7739a4334
     name: mychart3
@@ -66,7 +66,7 @@ entries:
   mychart4:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-30T18:01:04.842691+05:30"
+    created: "2025-12-01T08:13:14.521242+05:30"
     description: A Helm chart for Kubernetes
     digest: d23750c76ea4453f7b13804f2011c0244715d651e249a123e8e50bd5547002ea
     name: mychart4
@@ -77,7 +77,7 @@ entries:
   retail-store-sample-cart-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.844294+05:30"
+    created: "2025-12-01T08:13:14.523239+05:30"
     description: Carts Microservice - Modified Helm chart for AWS EKS course (based
       on aws-containers/retail-store-sample-app)
     digest: 5c4b42ffd51257ee81dd133b110fd55e7ae3112314c0b0c0dbf26e0af1ab8b25
@@ -91,7 +91,7 @@ entries:
   retail-store-sample-catalog-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.845899+05:30"
+    created: "2025-12-01T08:13:14.526612+05:30"
     description: Catalog Microservice - Modified Helm chart for AWS EKS course (based
       on aws-containers/retail-store-sample-app)
     digest: b3a90a490294e31e9f14da0755826e77cb00dfa19fcd6c5048e2c2cc660a774e
@@ -104,19 +104,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T16:07:43.282918+05:30"
-    description: Modified Helm chart for AWS EKS course (based on aws-containers/retail-store-sample-app)
-    digest: 92864ecf34958ec6bf822fc4ea61d564e2f44d71c6cd69054aee239e7dc0c1c9
-    name: retail-store-sample-catalog-chart
-    sources:
-    - https://github.com/aws-containers/retail-store-sample-app
-    type: application
-    urls:
-    - https://stacksimplify.github.io/helm-charts/retail-store-sample-catalog-chart-1.3.0.tgz
-    version: 1.3.0
-  - apiVersion: v2
-    appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.845406+05:30"
+    created: "2025-12-01T08:13:14.524805+05:30"
     description: Modified Helm chart for AWS EKS course (based on aws-containers/retail-store-sample-app)
     digest: 13b590132be914e4833739cba158bbbc2a9a7d81f1a1f69ce6f56545cdf4e477
     name: retail-store-sample-catalog-chart
@@ -129,7 +117,7 @@ entries:
   retail-store-sample-checkout-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.84657+05:30"
+    created: "2025-12-01T08:13:14.528388+05:30"
     description: Checkout Microservice - Modified Helm chart for AWS EKS course (based
       on aws-containers/retail-store-sample-app)
     digest: 6daba4c150f9db7cd4325b67018a4208c0b234a10bcb43f8e83092964df59621
@@ -143,7 +131,7 @@ entries:
   retail-store-sample-orders-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.848041+05:30"
+    created: "2025-12-01T08:13:14.531854+05:30"
     description: Orders Microservice - Modified Helm chart for AWS EKS course (based
       on aws-containers/retail-store-sample-app)
     digest: ce07050dd8d8c032e75a851417613a0f6b9fc582496c3087eeb0c54546167f41
@@ -156,7 +144,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.847441+05:30"
+    created: "2025-12-01T08:13:14.530503+05:30"
     description: Orders Microservice - Modified Helm chart for AWS EKS course (based
       on aws-containers/retail-store-sample-app)
     digest: aed441041e6a306ae7f125313d76f1796766868d80ff0207413bdaaefcb9f5ba
@@ -170,7 +158,7 @@ entries:
   retail-store-sample-ui-chart:
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-11-30T18:01:04.849468+05:30"
+    created: "2025-12-01T08:13:14.532738+05:30"
     description: UI App - Modified Helm chart for AWS EKS course (based on aws-containers/retail-store-sample-app)
     digest: ef3d1a293b542499260b89da40044b37bd1719a6d0a2b10da056f6fe9361eb29
     name: retail-store-sample-ui-chart
@@ -183,7 +171,7 @@ entries:
   umsapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-11-30T18:01:04.852705+05:30"
+    created: "2025-12-01T08:13:14.536531+05:30"
     dependencies:
     - condition: mysql.enabled
       name: mysql
@@ -197,4 +185,4 @@ entries:
     urls:
     - https://stacksimplify.github.io/helm-charts/umsapp-1.0.0.tgz
     version: 1.0.0
-generated: "2025-11-30T18:01:04.837877+05:30"
+generated: "2025-12-01T08:13:14.515867+05:30"
